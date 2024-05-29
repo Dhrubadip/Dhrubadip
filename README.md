@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhrubadip
-- 👀 I’m interested in VMware, Virtualization, Python and autometion
+- 👀 I’m interested in VMware, Virtualization, Python and automation
 - 🌱 I’m currently learning Python and microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhrubadip@gmail.com
